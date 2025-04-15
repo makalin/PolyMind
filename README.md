@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-Developed by [Mehmet Turgay Akalın](https://github.com/makalin) – MIT License.
+Developed by [Mehmet T. AKALIN](https://github.com/makalin) – MIT License.
 
 ---
 
